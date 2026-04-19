@@ -8,7 +8,8 @@ const projects = [
     title: "AI-Powered Education Recommender System",
     description: "Intelligent course-to-career matching system leveraging machine learning and knowledge graphs to improve educational outcomes.",
     stack: ["Python", "Machine Learning", "Knowledge Graph", "ETL"],
-    impact: "Improved course-to-career matching accuracy"
+    impact: "Improved course-to-career matching accuracy",
+    caseStudy: false
   },
   {
     title: "Operations Automation Platform (TRQ Studio)",
@@ -21,13 +22,15 @@ const projects = [
     title: "Real-Time Sign Language Detection System",
     description: "Computer vision-based system for real-time gesture recognition using convolutional neural networks.",
     stack: ["Python", "OpenCV", "CNN", "Keras"],
-    impact: "Computer vision-based gesture recognition"
+    impact: "Computer vision-based gesture recognition",
+    caseStudy: false
   },
   {
     title: "Product-Market Fit Strategy Framework",
     description: "Strategic framework for analyzing market positioning and driving revenue stabilization through data-driven insights.",
     stack: ["Strategy", "Market Analysis", "Data-Driven"],
-    impact: "Market repositioning & revenue stabilization"
+    impact: "Market repositioning & revenue stabilization",
+    caseStudy: false
   }
 ];
 
