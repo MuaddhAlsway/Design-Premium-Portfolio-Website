@@ -44,7 +44,7 @@ Hadil is a multidisciplinary product architect operating at the intersection of 
 
 ## Connect
 
-**LinkedIn:** [linkedin.com/in/hadil-al-sewaieeon](https://linkedin.com/in/hadil-al-sewaieeon)
+**LinkedIn:** [linkedin.com/in/hadil-al-sewaiee](https://www.linkedin.com/in/hadil-al-sewaiee/)
 
 ---
 

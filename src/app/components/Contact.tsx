@@ -41,7 +41,7 @@ export function Contact() {
           {/* Contact Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <motion.a
-              href="https://linkedin.com/in/hadil-al-sewaieeon"
+              href="https://www.linkedin.com/in/hadil-al-sewaiee/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 bg-[#daff00] text-black rounded-[10px] font-semibold flex items-center gap-2 transition-all hover:shadow-[0_0_30px_rgba(218,255,0,0.4)] hover:scale-105"
